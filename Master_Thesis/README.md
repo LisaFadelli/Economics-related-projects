@@ -12,7 +12,7 @@ The folder contains:
 - Tables.xlsx (excel file with the tables added to the thesis)
 
 ## DATASET 
-The Dataset used can be found as an excel file as “Dataset.xlsl” 
+The Dataset used can be found as an excel file as “Dataset.xlsx” 
 
 ## SOFTWARE REQUIREMENT: 
 RStudio  
