@@ -6,11 +6,11 @@ The projects cover diverse topics, ranging from macroeconomic analysis to applie
 Each project is categorized by its level of complexity and provides insights into different areas of economic research.
 
 ## Table of Contents:
-- Master Thesis
-- Working Paper: Globalization and Human Development Index
-- Replication and Working Paper: Uber and Public Transit
-- Replication Paper: Double Taxation and Foreign Direct Investment
-- Working Paper: COVID-19 and Mask-Wearing
+- [Master Thesis](Master_Thesis)
+- [Working Paper: Globalization and Human Development Index](Globalization_Impact)
+- [Replication and Working Paper: Uber and Public Transit](Uber_Transit)
+- [Replication Paper: Double Taxation and Foreign Direct Investment](Replication_Paper)
+- [Working Paper: COVID-19 and Mask-Wearing](COVID_Working_Paper)
 
 ## Projects
 
