@@ -1,0 +1,198 @@
+w.weights,unit.names,unit.numbers
+122,0,Vidin,122
+123,0,Montana,123
+124,0.001,Vratsa,124
+125,0.001,Pleven,125
+126,0,Lovech,126
+127,0.001,Veliko Tarnovo,127
+128,0.001,Gabrovo,128
+129,0.001,Ruse,129
+130,0.034,Razgrad,130
+131,0.007,Silistra,131
+132,0.001,Varna,132
+133,0,Dobrich,133
+134,0.001,Shumen,134
+135,0.001,Targovishte,135
+136,0.001,Burgas,136
+137,0,Sliven,137
+138,0,Yambol,138
+139,0.001,Stara Zagora,139
+140,0.02,Sofia (stolitsa),140
+141,0,Sofia,141
+142,0.001,Blagoevgrad,142
+143,0.001,Pernik,143
+144,0,Kyustendil,144
+145,0.001,Plovdiv,145
+146,0.001,Haskovo,146
+147,0.073,Pazardzhik,147
+148,0.027,Smolyan,148
+149,0.005,Kardzhali,149
+150,0,Hlavní mesto Praha,150
+151,0,Stredoceský kraj,151
+152,0.001,Jihocecký kraj,152
+153,0.001,Plzenský kraj,153
+154,0.001,Karlovarský kraj,154
+155,0.001,Ústecký kraj,155
+156,0.001,Liberecký kraj,156
+157,0,Královéhradecký kraj,157
+158,0.001,Pardubický kraj,158
+159,0.001,Kraj Vysocina,159
+160,0,Jihomoravský kraj,160
+161,0,Olomoucký kraj,161
+162,0.001,Zlínský kraj,162
+163,0.001,Moravskoslezský kraj,163
+164,0,Primorsko-goranska zupanija,164
+165,0,Licko-senjska zupanija,165
+166,0,Zadarska zupanija,166
+167,0,Sibensko-kninska zupanija,167
+168,0,Splitsko-dalmatinska zupanija,168
+169,0,Istarska zupanija,169
+170,0,Dubrovacko-neretvanska zupanija,170
+171,0.001,Grad Zagreb,171
+172,0,Zagrebacka zupanija,172
+173,0.001,Krapinsko-zagorska zupanija,173
+174,0.002,Varazdinska zupanija,174
+175,0.001,Koprivnicko-krizevacka zupanija,175
+176,0.003,Medimurska zupanija,176
+177,0.001,Bjelovarsko-bilogorska zupanija,177
+178,0.004,Viroviticko-podravska zupanija,178
+179,0.001,Pozesko-slavonska zupanija,179
+180,0.001,Brodsko-posavska zupanija,180
+181,0.001,Osjecko-baranjska zupanija,181
+182,0,Vukovarsko-srijemska zupanija,182
+183,0.001,Karlovacka zupanija,183
+184,0.001,Sisacko-moslavacka zupanija,184
+185,0,Budapest,185
+186,0,Pest,186
+187,0.001,Fejér,187
+188,0.001,Komárom-Esztergom,188
+189,0.001,Veszprém,189
+190,0.001,Gyor-Moson-Sopron,190
+191,0.001,Vas,191
+192,0,Zala,192
+193,0.001,Baranya,193
+194,0,Somogy,194
+195,0.001,Tolna,195
+196,0.001,Borsod-Abaúj-Zemplén,196
+197,0.001,Heves,197
+198,0.001,Nógrád,198
+199,0.001,Hajdú-Bihar,199
+200,0.001,Jász-Nagykun-Szolnok,200
+201,0.001,Szabolcs-Szatmár-Bereg,201
+202,0,Bács-Kiskun,202
+203,0,Békés,203
+204,0.001,Csongrád,204
+205,0.001,Miasto Kraków,205
+206,0,Krakowski,206
+207,0.001,Tarnowski,207
+208,0.002,Nowosadecki,208
+209,0.001,Nowotarski,209
+210,0.001,Oswiecimski,210
+211,0.001,Czestochowski,211
+212,0.001,Bielski,212
+213,0.002,Rybnicki,213
+214,0.002,Bytomski,214
+215,0.001,Gliwicki,215
+216,0.001,Katowicki,216
+217,0.009,Sosnowiecki,217
+218,0.017,Tyski,218
+219,0.001,Pilski,219
+220,0.001,Koninski,220
+221,0.001,Miasto Poznan,221
+222,0.001,Kaliski,222
+223,0.001,Leszczynski,223
+224,0,Poznanski,224
+225,0.001,Miasto Szczecin,225
+226,0.001,Koszalinski,226
+227,0.001,Szczecinecko-pyrzycki,227
+228,0.085,Szczecinski,228
+229,0.001,Gorzowski,229
+230,0.001,Zielonogórski,230
+231,0.001,Miasto Wroclaw,231
+232,0,Jeleniogórski,232
+233,0.005,Legnicko-Glogowski,233
+234,0,Walbrzyski,234
+235,0,Wroclawski,235
+236,0.001,Nyski,236
+237,0.001,Opolski,237
+238,0.001,Bydgosko-Torunski,238
+239,0.003,Grudziadzki,239
+240,0.001,Inowroclawski,240
+241,0,Swiecki,241
+242,0.002,Wloclawski,242
+243,0.001,Elblaski,243
+244,0.001,Olsztynski,244
+245,0.001,Elcki,245
+246,0.001,Trojmiejski,246
+247,0.001,Gdanski,247
+248,0.001,Slupski,248
+249,0.001,Chojnicki,249
+250,0.01,Starogardzki,250
+251,0.001,Miasto Lódz,251
+252,0.001,Lódzki,252
+253,0.001,Piotrkowski,253
+254,0.201,Sieradzki,254
+256,0.002,Kielecki,256
+257,0.001,Sandomiersko-jedrzejowski,257
+258,0.001,Bialski,258
+259,0.001,Chelmsko-zamojski,259
+260,0.001,Lubelski,260
+261,0.001,Pulawski,261
+262,0.004,Krosnienski,262
+263,0.01,Przemyski,263
+264,0.001,Rzeszowski,264
+265,0.006,Tarnobrzeski,265
+266,0.001,Bialostocki,266
+267,0.001,Lomzynski,267
+268,0.269,Suwalski,268
+269,0,Miasto Warszawa,269
+270,0,Warszawski wschodni,270
+271,0.028,Warszawski zachodni,271
+272,0.002,Radomski,272
+273,0.014,Ciechanowski,273
+274,0.001,Plocki,274
+275,0.001,Ostrolecki,275
+276,0.001,Siedlecki,276
+277,0,Zyrardowski,277
+278,0.001,Bihor,278
+279,0.001,Bistrita-Nasaud,279
+280,0.001,Cluj,280
+281,0,Maramures,281
+282,0.001,Satu Mare,282
+283,0.001,Salaj,283
+284,0.001,Alba,284
+285,0.001,Brasov,285
+286,0.001,Covasna,286
+287,0.001,Harghita,287
+288,0.001,Mures,288
+289,0.001,Sibiu,289
+290,0.001,Bacau,290
+291,0.001,Botosani,291
+292,0.001,Iasi,292
+293,0.001,Neamt,293
+294,0,Suceava,294
+295,0.001,Vaslui,295
+296,0.004,Braila,296
+297,0.001,Buzau,297
+298,0,Constanta,298
+299,0.001,Galati,299
+300,0.001,Tulcea,300
+301,0.001,Vrancea,301
+302,0.001,Arges,302
+303,0,Calarasi,303
+304,0.001,Dâmbovita,304
+305,0.001,Giurgiu,305
+306,0,Ialomita,306
+307,0.001,Prahova,307
+308,0.001,Teleorman,308
+309,0.035,Bucuresti,309
+310,0.001,Ilfov,310
+311,0.001,Dolj,311
+312,0.001,Gorj,312
+313,0,Mehedinti,313
+314,0.001,Olt,314
+315,0,Vâlcea,315
+316,0.001,Arad,316
+317,0.001,Caras-Severin,317
+318,0.002,Hunedoara,318
+319,0.001,Timis,319

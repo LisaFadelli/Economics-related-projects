@@ -1,0 +1,16 @@
+Treated,Synthetic,Sample Mean
+k98,7.398,7.687,8.214
+k_p98,-5.444,-5.295,-4.703
+GVA_Agr,0.212,0.206,0.124
+GVA_Ind,0.282,0.276,0.268
+GVA_Trade,0.181,0.19,0.22
+GVA_Constr,0.059,0.059,0.068
+GVA_FBS,0.139,0.13,0.154
+h98_Trade,0.58,0.378,1.047
+dwellings2000,11.744,11.977,11.827
+urban,0.455,0.427,0.431
+modern,0.064,0.075,0.088
+av_age_ln,3.499,3.52,3.568
+special.lnGDPpc_change.1998,-0.079,-0.073,0.023
+special.lnGDPpc_change.2003,0.072,0.085,0.057
+special.lnGDPpc_change.2006,0.153,0.139,0.064

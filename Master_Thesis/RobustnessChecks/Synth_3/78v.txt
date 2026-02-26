@@ -1,0 +1,13 @@
+v.weights
+k98,0.239
+k_p98,0.163
+GVA_Agr,0.246
+GVA_Ind,0.127
+GVA_Trade,0
+GVA_Constr,0.048
+GVA_FBS,0
+h98_Trade,0
+dwellings2000,0.147
+urban,0.004
+modern,0.025
+av_age_ln,0

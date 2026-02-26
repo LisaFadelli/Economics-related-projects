@@ -1,0 +1,27 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{1}{c}}
+\toprule
+                    &\multicolumn{1}{c}{(1)}\\
+                    &\multicolumn{1}{c}{Google Trend Search Intensity}\\
+\midrule
+Log New weekly cases&      -1.363\sym{***}\\
+                    &     (0.278)         \\
+\addlinespace
+Log Unlinked Passenger Trips&       10.89\sym{***}\\
+                    &     (2.502)         \\
+\addlinespace
+Log Vehicles Operated in Annual Maximum Service&       2.858         \\
+                    &     (4.611)         \\
+\addlinespace
+Constant            &      -111.5\sym{**} \\
+                    &     (46.25)         \\
+\midrule
+Observations        &        2182         \\
+Observations        &                     \\
+Adjusted R-squared  &      0.0718         \\
+\bottomrule
+\multicolumn{2}{l}{\footnotesize Standard errors in parentheses}\\
+\multicolumn{2}{l}{\footnotesize \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
+\end{tabular}
+}
